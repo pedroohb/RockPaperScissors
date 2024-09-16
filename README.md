@@ -1,1 +1,1 @@
-# RockPaperScissors
+Primeiro projeto com JavaScript de um jogo de pedra, papel e tesoura.
